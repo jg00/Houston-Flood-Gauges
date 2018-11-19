@@ -1,6 +1,9 @@
 # Houston Strong
 ## Flood Gauge Reports for Houston area
 
+## Developers
+Scott Morse, Emre Akurek, Ameka Brown, Jakiri Gamboa
+
 ## Live link: http://houston-water-levels.herokuapp.com
 
 This website is a Node.js project using Express.js and PostgreSQL to show recent data about the flood gauge levels for Lake Houston and Buffalo Bayou, bodies of water that created some of the largest flooding problems during Hurriane Harvey.
