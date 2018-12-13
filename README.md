@@ -3,6 +3,9 @@
 ## This site was built by
 [Scott Morse](https://github.com/ScottMorse), [Ameka Brown](https://github.com/brownameka05), [Jakiri Gamboa](https://github.com/jg00), [Emre Akurek](https://github.com/emreyeprem)
 
+## Original group GitHub:
+https://github.com/brownameka05/HoustonWaterLevels
+
 ## Live link:
 http://houston-water-levels.herokuapp.com
 
